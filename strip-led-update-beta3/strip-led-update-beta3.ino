@@ -11,8 +11,8 @@
 
 ///////////////////////////////////
 
-#define ssid "Cleverson"
-#define password "tesla32020"
+#define ssid "YOURSSID"
+#define password "YOURPASSWORD"
 
 WiFiServer server(80); // set web port number to 80
 String header; // variable to store the HTTP req uest
